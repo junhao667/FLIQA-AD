@@ -1,0 +1,2 @@
+Please download the image from the adni official website and perform basic preprocessing
+link:https://adni.loni.usc.edu/
