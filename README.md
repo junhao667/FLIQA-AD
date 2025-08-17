@@ -1,3 +1,0 @@
-# FLIQA-AD
-
-The code is following....
